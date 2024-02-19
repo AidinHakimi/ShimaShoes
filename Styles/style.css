@@ -1,5 +1,25 @@
-#header {
-    width: 00px;
-    height: 200px;
-    background-color: brown;
+#support{
+    display: inline-block;
+    background-color: lightgreen;
+    border-radius: 10%;
+    width:auto;
+    height: auto;
+    margin-right: 5px;
+    padding: 5px;
+}
+#shopping-box{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+.top{
+    display:inline-block;
+
+}
+#search{
+    margin-left: 4px;
+    width:200px;
+    height:50;
+    background-color: antiquewhite;
+    border-radius: 10%;
 }
